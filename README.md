@@ -18,7 +18,7 @@ Ms Power BI
 jkbkdfbbjbkjbfkbfvkbdvkfbkbdkdfhkbhdh
 
 ## Data Visualization
-![](HR1)
+![](HR1.png)
 ![](HR2)
 ![](HR3)
 ![](HR4)
